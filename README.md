@@ -1,6 +1,6 @@
 <h1> TextUtils <h1></h1>
-<p>TextUtils is a simple and easy-to-use web app designed to help you quickly manipulate text. It offers several powerful features for transforming text and improving your productivity.</p>
-
+<p>TextUtils is a user-friendly web app that allows you to quickly transform and manipulate text, improving your productivity. It offers features like converting text to uppercase, lowercase, and removing extra spaces.</p>
+<hr>
 <h3>Features</h3>
 <b>Uppercase Conversion: </b>Convert your text to uppercase.
 <br>
